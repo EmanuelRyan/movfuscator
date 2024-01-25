@@ -1,6 +1,6 @@
-#!/bin/sh
+*!/bin/sh
 
-# To verify that the M/o/Vfuscator is working correctly, this script will pull
+!*To verify that the M/o/Vfuscator is working correctly, this script will pull
 # down an open source AES implementation, compile it, objdump it, and run it.
 # The objdump will take some time, be patient.
 
@@ -42,3 +42,4 @@ sleep 2
 sleep 2
 echo "M/o/Vfuscator check complete."
 echo
+ 
